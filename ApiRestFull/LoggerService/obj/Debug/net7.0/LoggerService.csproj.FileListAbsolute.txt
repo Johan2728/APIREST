@@ -1,0 +1,17 @@
+C:\PROYECTO\ApiRestFull\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+C:\PROYECTO\ApiRestFull\LoggerService\bin\Debug\net7.0\LoggerService.dll
+C:\PROYECTO\ApiRestFull\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+C:\PROYECTO\ApiRestFull\LoggerService\bin\Debug\net7.0\Contracts.dll
+C:\PROYECTO\ApiRestFull\LoggerService\bin\Debug\net7.0\Entities.dll
+C:\PROYECTO\ApiRestFull\LoggerService\bin\Debug\net7.0\Contracts.pdb
+C:\PROYECTO\ApiRestFull\LoggerService\bin\Debug\net7.0\Entities.pdb
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\LoggerService.dll
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+C:\PROYECTO\ApiRestFull\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
