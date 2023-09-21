@@ -11,12 +11,12 @@ namespace Entities.Models
     public class Employee
     {
         [Column("EmployeeId")]
-
+        [Key]
         public Guid Id { get; set; }
 
         [Required(ErrorMessage = " El nombre de la compañia es requerido")]
         [MaxLength(30, ErrorMessage = "Maximo de caracteres es de 30")]
-        public string Name { get; set; }
+        public string? Name { get; set; }
 
         [Required(ErrorMessage = " La edad del empleado es requerido")]
         public int Age { get; set; }
@@ -26,7 +26,6 @@ namespace Entities.Models
         public string? Position { get; set; }
 
         [ForeignKey(nameof(Company))]
-
         public Guid CompanyId { get; set; }
         public Company? Company { get; set; }
     }
