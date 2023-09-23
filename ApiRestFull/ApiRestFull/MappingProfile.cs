@@ -21,6 +21,8 @@ namespace ApiRestFull
             CreateMap<EmployeeForUpdateDto, Employee>();
 
             CreateMap<CompanyForUpdateDto, Company>();
+
+            CreateMap<EmployeeForUpdateDto, Employee>();
         }
 
         

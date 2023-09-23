@@ -12,13 +12,12 @@ namespace CompanyEmployees.Presentation.Controllers
         private readonly IServiceManager _service;
         public CompaniesController(IServiceManager service) => _service = service;
 
-        //[HttpGet]
-        //public IActionResult GetCompanies()
-        //{
-        //    throw new Exception("Exception");
-        //    var companies = _service.CompanyService.GetAllCompanies(trackChanges: false);
-        //    return Ok(companies);
-        //}
+        [HttpGet]
+        public IActionResult GetCompanies()
+        {
+            var companies = _service.CompanyService.GetAllCompanies(trackChanges: false);
+            return Ok(companies);
+        }
 
         [HttpGet("{id:guid}", Name ="CompanyById")]
         public IActionResult GetCompany(Guid id)
